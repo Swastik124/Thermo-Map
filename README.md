@@ -121,7 +121,7 @@ Optimal temperature is critical for mushroom yield and quality. Traditional manu
 
 ### 2. LabView Circuit and UI
 ![LabView Circuit](./images/labviewcircuit.jpg)
-![LabView UI](./images/labviewUI.jpg)
+![LabView UI](./images/labviewUI.png)
 
 ### 3. Cloud Dashboard
 ![Cloud Dashboard](./images/cloud1.jpg)
