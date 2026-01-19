@@ -41,7 +41,9 @@ Optimal temperature is critical for mushroom yield and quality. Traditional manu
 ## 🛠️ Hardware Components
 
 <!-- ADD HARDWARE SETUP IMAGE HERE -->
-![Hardware Setup](./images/hardware_setup.png)
+![Hardware Setup](./images/Picture1.png)
+<br>
+![Hardware Setup](./images/Picture2.png)
 
 - **ESP32 Microcontroller** – Data acquisition and Wi-Fi communication  
 - **DHT11 Sensors** – Temperature and humidity sensing  
@@ -114,20 +116,19 @@ Optimal temperature is critical for mushroom yield and quality. Traditional manu
 
 ## 📷 Image Placeholders (Add Your Images Here)
 
-### 1. Lab Setup
-![Lab Setup](./images/lab_setup.png)
+### 1. Graphical Abstract
+![Graphical Abstract](./images/GA.png)
 
-### 2. Sensor Deployment
-![Sensor Deployment](./images/sensor_deployment.png)
+### 2. LabView Circuit and UI
+![LabView Circuit](./images/labviewcircuit.jpg)
+![LabView UI](./images/labviewUI.jpg)
 
-### 3. ESP32 Wiring
-![ESP32 Wiring](./images/esp32_wiring.png)
+### 3. Cloud Dashboard
+![Cloud Dashboard](./images/cloud1.jpg)
+![Cloud Dashboard](./images/cloud2.jpg)
 
-### 4. Temperature Heatmap
-![Temperature Heatmap](./images/temperature_map.png)
-
-### 5. Cloud Dashboard
-![Cloud Dashboard](./images/cloud_dashboard.png)
+### 4. Doodle (To make it intresting)
+![Doodle](./images/doodle.png)
 
 ---
 
